@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>AranRusj_x</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="186031">[tag=&quot;N.*&quot; &amp; word=&quot;.*ция&quot;]</subquery>
+  </query>
+</header>
+<frequency>
+  <items blockname="word">
+    <item>
+      <str attribute="word">информация</str>
+      <freq>14038</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">организация</str>
+      <freq>8524</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">ситуация</str>
+      <freq>7682</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">продукция</str>
+      <freq>4402</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">конструкция</str>
+      <freq>4029</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">регистрация</str>
+      <freq>3215</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Информация</str>
+      <freq>3152</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">функция</str>
+      <freq>3110</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Организация</str>
+      <freq>2750</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">операция</str>
+      <freq>2290</freq>
+      <example></example>
+    </item>
+  </items>
+</frequency>
+</export>
