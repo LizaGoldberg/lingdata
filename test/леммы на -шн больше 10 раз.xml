@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>AranRusj_x</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="795">[tag=&quot;N.*&quot; &amp; word=&quot;.*шн&quot; ]</subquery>
+  </query>
+</header>
+<frequency>
+  <items blockname="word">
+    <item>
+      <str attribute="word">ресепшн</str>
+      <freq>223</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">экшн</str>
+      <freq>76</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Редсолюшн</str>
+      <freq>27</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">продакшн</str>
+      <freq>23</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Продакшн</str>
+      <freq>19</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Корпорейшн</str>
+      <freq>17</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Ресепшн</str>
+      <freq>16</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">промоушн</str>
+      <freq>13</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Экшн</str>
+      <freq>13</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Фэшн</str>
+      <freq>13</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">постпродакшн</str>
+      <freq>12</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">дистрибьюшн</str>
+      <freq>12</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Пэшн</str>
+      <freq>12</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">фэшн</str>
+      <freq>11</freq>
+      <example></example>
+    </item>
+  </items>
+</frequency>
+</export>
